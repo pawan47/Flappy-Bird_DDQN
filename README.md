@@ -4,3 +4,6 @@ I have used some tweaks to make the algorithm learn faster. I have kept the back
 I have used a low spec laptop for its training. That's why it took 5 hours to beat the human average and 12 hours to have an average score above 45. If you have access to a high-end machine. I strongly encourage you to run this algorithm because you can get a sense of hyperparameter through this. This problem shows immediate effect of change of hyperparameter relative to other RL problems.
 
 Saved model file contains parameters after the training of 5 hours. 
+
+#### Fun video of result after random hours of training 
+![henaha](https://user-images.githubusercontent.com/28859302/43942167-895385a0-9c94-11e8-94a0-e9532e548b2f.gif)
